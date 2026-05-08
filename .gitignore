@@ -1,0 +1,14 @@
+# Ignore Kaggle API key
+kaggle.json
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+ENV/
+.env
+.env.*
