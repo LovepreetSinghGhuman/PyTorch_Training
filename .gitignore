@@ -12,3 +12,8 @@ venv/
 ENV/
 .env
 .env.*
+
+# folder for downloaded datasets
+animals-faces/
+bean-leaf-lesions-classifications/
+rice-leaf-diseases-dataset/
