@@ -14,6 +14,9 @@ ENV/
 .env.*
 
 # folder for downloaded datasets
-animals-faces/
-bean-leaf-lesions-classifications/
-rice-leaf-diseases-dataset/
+
+# folders for downloaded datasets (fixed names)
+animal-faces/
+bean-leaf-lesions-classification/
+rice-type-classification/
+quran-recitations-for-audio-classification/
